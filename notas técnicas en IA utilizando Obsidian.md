@@ -1,5 +1,5 @@
 
- <h1>tipos de datos</h1>
+**tipos de datos**
 
 
     a. **Number (Número):** Representa valores numéricos, ya sean enteros o flotantes.
@@ -79,7 +79,7 @@
 <p> introducción teórico a IA<p>
 
 
-<h1>averiguar acerca de los nativos digitales y su IQ</h1>
+<H2>1. averiguar acerca de los nativos digitales y su IQ</H2>
 
 
 El término "nativos digitales" se refiere a las personas que han crecido en un entorno donde la tecnología digital ha estado presente desde una edad temprana, como computadoras, Internet y dispositivos móviles. No hay evidencia que indique que los nativos digitales tengan un IQ diferente al de generaciones anteriores, ya que el Cociente Intelectual se mide de la misma manera para todas las personas y no depende de su exposición a la tecnología. Cada individuo es único y tiene habilidades diversas, independientemente de la generación a la que pertenezcan.
