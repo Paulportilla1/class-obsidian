@@ -1,4 +1,4 @@
- <p>Es un lenguaje de programación fácil de leer que permite asignar de variables, operaciones matemáticas, condiciones y manipulación en la cual  debemos respetar las condiciones  para que al poder ejecutar nos funcione el código en la cual nos muestra la  información de ayuda de la función  en la cual tiene 4 encargados mas importante de la base de datos " date ciense. " date cleaner" etc. </p>
+  |<p>Es un lenguaje de programación fácil de leer que permite asignar de variables, operaciones matemáticas, condiciones y manipulación en la cual  debemos respetar las condiciones  para que al poder ejecutar nos funcione el código en la cual nos muestra la  información de ayuda de la función  en la cual tiene 4 encargados mas importante de la base de datos " date ciense. " date cleaner" etc. </p>
  
 ==lo importante para python es tener PYCHARM y también lo que es importante es la idexacion
 
@@ -22,11 +22,3 @@
 <h1>Trabajando con librerías externas</h1>
 
 <p>python permite la importación de liberáis ya sea estándar o personalizadas a través de importaciones. las librerías de funciones y valores </p>
-fecha 26 de julio del 2023
-<h1>machine learning</h1>
-
-<p>Esta dividido por generative adversarial network, deep learning, reinfocement learning,neural networks</p> 
-
-<h1>pandas date structures </h1>
-<h1>serie</h1>
-<p>una matriz etiquetada unidimensional capaz de contener cualquier tipo de datos</p>
