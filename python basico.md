@@ -1,4 +1,5 @@
  <p>Es un lenguaje de programación fácil de leer que permite asignar de variables, operaciones matemáticas, condiciones y manipulación en la cual  debemos respetar las condiciones  para que al poder ejecutar nos funcione el código en la cual nos muestra la  información de ayuda de la función  en la cual tiene 4 encargados mas importante de la base de datos " date ciense. " date cleaner" etc. </p>
+ 
 ==lo importante para python es tener PYCHARM y también lo que es importante es la idexacion
 
 <h1>funciones y ayuda</h1>
