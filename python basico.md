@@ -21,3 +21,11 @@
 <h1>Trabajando con librerías externas</h1>
 
 <p>python permite la importación de liberáis ya sea estándar o personalizadas a través de importaciones. las librerías de funciones y valores </p>
+fecha 26 de julio del 2023
+<h1>machine learning</h1>
+
+<p>Esta dividido por generative adversarial network, deep learning, reinfocement learning,neural networks</p> 
+
+<h1>pandas date structures </h1>
+<h1>serie</h1>
+<p>una matriz etiquetada unidimensional capaz de contener cualquier tipo de datos</p>
