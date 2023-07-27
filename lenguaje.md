@@ -31,3 +31,8 @@
 
 <h1>OpenIA</h1>
 <p>OpenAI es asegurarse de que la inteligencia artificial pueda beneficiar a toda la humanidad En este sentido, no sólo trabajan en el desarrollo de programas con IA beneficiosos; sino que también se ocupan de detectar amenazas y usos indebidos de modelos lingüísticos para la desinformación</p>
+
+![[Pasted image 20230727114931.png]]
+
+<h1>postman</h1>
+<p>Postman es una plataforma líder en el mercado que proporciona un entorno completo para que los desarrolladores trabajen con API de manera eficiente y efectiva. A través de su interfaz amigable, los desarrolladores pueden diseñar, construir, probar e iterar sobre sus API de manera rápida y sencilla</p>
