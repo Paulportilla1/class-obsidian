@@ -2,8 +2,10 @@
 <h1>configuracion</h1>
 <p>npm i -g @nestjs/cli</h1>
 	<p>nest new project-new</p>
+<h1>HTTP</h1>
 
-
+<P>Hypertext Transfer Protocol es un protocolo de aplicación utilizado para la transferencia de datos permite que los navegadores web se comuniquen con los servidores web y accedan a recursos en línea</P>
+![[Pasted image 20230727112929.png]]
 <h1>node HTTP framework</h1>
 <p>se ocupa dos la cual son "express" y "fastifry"</p>
 <h1>definicion</h1>
