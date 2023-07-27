@@ -26,3 +26,6 @@
 2. Post: Se utiliza para enviar datos al servidor para que sean procesados y almacenados
 3. Patch: se utiliza para aplicar cambios parciales a un recurso en lugar de reemplazarlo por completo
 4. Delete: Se utiliza para solicitar la eliminación de un recurso en el servidor identificado por la URL
+
+<h1>OpenIA</h1>
+<p>OpenAI es asegurarse de que la inteligencia artificial pueda beneficiar a toda la humanidad En este sentido, no sólo trabajan en el desarrollo de programas con IA beneficiosos; sino que también se ocupan de detectar amenazas y usos indebidos de modelos lingüísticos para la desinformación</p>
